@@ -1,5 +1,5 @@
 # hello-world
-Гэта мой першы праэкт — калькулятар на с++
+Гэта мой першы праэкт — матэматычны дапаможнiк на с++
 
 
 Усе, што мне трэба зрабіць можна знайсці [тут](https://docs.google.com/document/d/116Ch-CfY2T-KYU8IM7-SlZDHx7HXvUwgowSJoEwUsFM/mobilebasic).
